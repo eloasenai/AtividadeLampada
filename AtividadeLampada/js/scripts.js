@@ -21,7 +21,6 @@ const ligar = () => {
   }
 };
 
-const Ligar = () => {};
 
 const gerarfigura = () => {
   let qtdfigura = document.getElementById("ixabxjsbc").value;
